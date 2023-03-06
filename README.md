@@ -2,7 +2,7 @@
 
 ## I'm a full time software developer with a focus on front end web application implementation.
 
-- 🔭 I’m currently working on learning Java and GraphQL.
+- 🔭 I’m currently working on learning .NET Core.
 - 🌱 I consider myself a life long learner and developer.
 - 🚀 My goal for 2022 is to continue to level up in React and learn about Web 3.0.
 - 💬 Ask me about my journey to being a developer.

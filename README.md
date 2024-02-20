@@ -1,4 +1,4 @@
-![Austin's Github Banner](https://www.canva.com/design/DAF9TwAUIyM/_CCb5dRet6tgQOAXpsF_Tw/edit?utm_content=DAF9TwAUIyM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![Github Banner](https://github.com/AustinGreer/AustinGreer/blob/main/Github%20banner.png)
 
 # Hi, I'm Austin 👋
 

@@ -2,6 +2,8 @@
 
 ## I'm a full time software developer with a focus on front end web application implementation.
 
+![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=AustinGreer&theme=dark&show_icons=true)
+
 - 🔭 I’m currently working on learning .NET Core.
 - 🌱 I consider myself a life long learner and developer.
 - 🚀 My goal for 2022 is to continue to level up in React and learn about Web 3.0.

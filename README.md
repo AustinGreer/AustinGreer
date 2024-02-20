@@ -1,10 +1,8 @@
-https://www.canva.com/design/DAF9TwAUIyM/_CCb5dRet6tgQOAXpsF_Tw/edit?utm_content=DAF9TwAUIyM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+![Austin's Github Banner](https://www.canva.com/design/DAF9TwAUIyM/_CCb5dRet6tgQOAXpsF_Tw/edit?utm_content=DAF9TwAUIyM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 # Hi, I'm Austin 👋
 
 ## I'm a full time software developer with a focus on front end web application implementation.
-
-![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=AustinGreer&theme=dark&show_icons=true)
 
 - 🔭 I’m currently working on learning .NET Core.
 - 🌱 I consider myself a life long learner and developer.
